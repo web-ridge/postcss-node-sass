@@ -44,9 +44,6 @@
             "web": "http://arpadhegedus.com"
         }
     ],
-    "engines": {
-        "node": ">=10.0.0 <15.0.0"
-    },
     "scripts": {
         "test": "jest"
     },
